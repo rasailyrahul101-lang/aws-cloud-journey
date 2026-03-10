@@ -340,5 +340,5 @@ Data    → Flows securely 🔒
 ### AWS Context
 - **CloudFront** adds HTTPS to your S3 static website
 - **ACM (Certificate Manager)** gives free SSL certificates
-- Always use HTTPS in production — never HTTP
+- Always use HTTPS in production —> never HTTP
 - In Week 8 you will set this up for your resume website
