@@ -53,3 +53,5 @@
 - `rm -rf` has no undo — always double check before running
 - `chmod 400` on `.pem` files — SSH will refuse to work without it
 - `tail -f` is your best friend for watching live server logs
+
+END
