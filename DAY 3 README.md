@@ -144,4 +144,4 @@ cat file.txt | sort | uniq            # Sort and remove duplicates
 - Always run `sudo apt update` before installing anything
 - `sudo` = run as administrator — use only when needed
 
----
+----------------------------------------------------------------
