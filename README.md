@@ -10,7 +10,7 @@ Hands-on AWS cloud engineering learning journey.
 ---
 
 ## Progress
-- [x] Prework Foundations (Days 1–7)
+- [ ] Prework Foundations (Days 1–7)
 - [ ] Week 1 — Cloud Foundations
 - [ ] Week 2 — Linux & Networking
 - [ ] Week 3 — Terraform
