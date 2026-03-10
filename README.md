@@ -41,4 +41,4 @@ Hands-on AWS cloud engineering learning journey.
 | Day 2 | Linux Basics Part 1 | Navigation, files, permissions, viewing |
 | Day 3 | Linux Basics Part 2 | grep, find, curl, ssh, piping, Bandit 0-10 |
 | Day 4 | Networking | IP, subnet, DNS, ports, firewall, HTTP/HTTPS |
-| Day 5 | Git & GitHub | In progress... |
+| Day 5 | Git & GitHub | commit, branch, merge, rebase, real workflow |
