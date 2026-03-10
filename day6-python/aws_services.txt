@@ -1,0 +1,5 @@
+EC2 - Virtual Machine
+S3 - Object Storage
+Lambda - Serverless
+RDS - Database
+VPC - Virtual Network
